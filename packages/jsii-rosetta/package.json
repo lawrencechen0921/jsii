@@ -34,7 +34,7 @@
     "commonmark": "^0.29.1",
     "fs-extra": "^9.0.0",
     "typescript": "~3.8.3",
-    "xmldom": "^0.3.0",
+    "xmldom": "^0.5.0",
     "yargs": "^15.3.1"
   },
   "jest": {
